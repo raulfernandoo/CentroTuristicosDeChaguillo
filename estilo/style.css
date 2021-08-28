@@ -185,10 +185,7 @@ body {
      padding-top: 1260px ;
      width: 100%;
   }
- .video-sanjavier{
-      border-radius: 10px;
-    
-  }
+
   .container-fluid .text-video {
       color : 000000;
       font-size: 40px;
@@ -422,9 +419,6 @@ column-gap: 15px;
   margin-right: 400px;
 }
 
-.video-sanjavier {
-  padding-top:  6px ;
-}
 
 
 @media only screen and (max-width: 505px) {
@@ -432,9 +426,7 @@ column-gap: 15px;
     background: rgba(255, 127, 80, 0);
     width: 99%;
     }
-  .video-sanjavier {
-    width: 100%;
-  }
+
   .logo {
     font: 0/0 a;
     text-shadow: transparent;
