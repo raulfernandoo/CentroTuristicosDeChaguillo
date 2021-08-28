@@ -185,30 +185,11 @@ body {
      padding-top: 1260px ;
      width: 100%;
   }
-
-  .container-fluid .text-video {
-      color : 000000;
-      font-size: 40px;
-    background: #EFEEF5;
-      margin-top: 30px;
-      font-weight: bold;
-      width: 200px;
-      margin: 0 auto;
+ .video-sanjavier{
       border-radius: 10px;
-      padding: 5px;
-      margin-top: 10px;
-      font-family: Arial, Helvetica, sans-serif;
-      transition-property: all;
-      transition-duration: 1.2s;
-      cursor: pointer;
     
-
   }
-  .container-fluid .text-video:hover {
-      color : #ffffff;
-      background: #060607;
 
-  }
 
   .logo-big {
     margin: auto;
@@ -419,14 +400,21 @@ column-gap: 15px;
   margin-right: 400px;
 }
 
+.video-sanjavier {
+  padding-top:  6px ;
+}
 
+
+ 
 
 @media only screen and (max-width: 505px) {
   .border-negro {
     background: rgba(255, 127, 80, 0);
     width: 99%;
     }
-
+  .video-sanjavier {
+    width: 100%;
+  }
   .logo {
     font: 0/0 a;
     text-shadow: transparent;
@@ -456,6 +444,9 @@ column-gap: 15px;
 -webkit-column-count: 1;
 -moz-column-count: 1;
     } 
+    .videpo-vimeo{
+    width: 100vh;
+    }
 
     }
     button {
@@ -479,3 +470,5 @@ column-gap: 15px;
       padding-right: 5%;
 
     }
+
+    
