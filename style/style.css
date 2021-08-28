@@ -249,7 +249,7 @@ body {
     margin: auto;
     padding: 20px;
     padding-bottom: 30px;
-    border-radius: 20px;
+    border-radius: 10px;
     text-align-last: center; text-align: justify;
     transition-property: all ;
     transition-duration: 2s;
@@ -257,7 +257,7 @@ body {
 }
 .border-negro:hover 
  {
-  background: rgba(0, 0, 0, 0.336);
+  background: rgba(0, 0, 0, 0.507);
   
 }
 
@@ -283,7 +283,10 @@ font-family: Tahoma, Geneva, sans-serif;
 font-size: 26px;
 letter-spacing: -0.8px;
 word-spacing: -0.6px;
-color: #5d90ff;
+color: floralwhite;
+text-shadow: -3px -1px 27px rgba(255,255,255,1);
+
+
 }
 
 /*---footer--*/
