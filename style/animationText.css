@@ -1,0 +1,917 @@
+@charset "UTF-8";
+@-webkit-keyframes typed {
+  /* string 1, char 1 */
+  0%, 0.5436623094% {
+    content: "L";
+  }
+  /* string 1, char 2 */
+  0.5446623094%, 1.0883246187% {
+    content: "Lo";
+  }
+  /* string 1, char 3 */
+  1.0893246187%, 1.6329869281% {
+    content: "Los";
+  }
+  /* string 1, char 4 */
+  1.6339869281%, 2.1776492375% {
+    content: "Los ";
+  }
+  /* string 1, char 5 */
+  2.1786492375%, 2.7223115468% {
+    content: "Los C";
+  }
+  /* string 1, char 6 */
+  2.7233115468%, 3.2669738562% {
+    content: "Los Ce";
+  }
+  /* string 1, char 7 */
+  3.2679738562%, 3.8116361656% {
+    content: "Los Cen";
+  }
+  /* string 1, char 8 */
+  3.8126361656%, 4.3562984749% {
+    content: "Los Cent";
+  }
+  /* string 1, char 9 */
+  4.3572984749%, 4.9009607843% {
+    content: "Los Centr";
+  }
+  /* string 1, char 10 */
+  4.9019607843%, 5.4456230937% {
+    content: "Los Centros";
+  }
+  /* string 1, char 11 */
+  5.4466230937%, 5.9902854031% {
+    content: "Los Centros";
+  }
+  /* string 1, char 12 */
+  5.9912854031%, 6.5349477124% {
+    content: "Los Centros ";
+  }
+  /* string 1, char 13 */
+  6.5359477124%, 7.0796100218% {
+    content: "Los Centros T";
+  }
+  /* string 1, char 14 */
+  7.0806100218%, 7.6242723312% {
+    content: "Los Centros Tu";
+  }
+  /* string 1, char 15 */
+  7.6252723312%, 8.1689346405% {
+    content: "Los Centros Tur";
+  }
+  /* string 1, char 16 */
+  8.1699346405%, 8.7135969499% {
+    content: "Los Centros Turi";
+  }
+  /* string 1, char 17 */
+  8.7145969499%, 9.2582592593% {
+    content: "Los Centros Turis";
+  }
+  /* string 1, char 18 */
+  9.2592592593%, 9.8029215686% {
+    content: "Los Centros Turist";
+  }
+  /* string 1, char 19 */
+  9.8039215686%, 10.347583878% {
+    content: "Los Centros Turistr";
+  }
+  /* string 1, char 20 */
+  10.348583878%, 10.8922461874% {
+    content: "Los Centros Turistro";
+  }
+  /* string 1, char 21 */
+  10.8932461874%, 11.4369084967% {
+    content: "Los Centros Turistros";
+  }
+  /* string 1, char 22 */
+  11.4379084967%, 23.310546841% {
+    content: "Los Centros Turistros!";
+  }
+  /* string 1, char 23 */
+  23.311546841%, 23.7462766885% {
+    content: "Los Centros Turistros";
+  }
+  /* string 1, char 24 */
+  23.7472766885%, 24.1820065359% {
+    content: "Los Centros Turistro";
+  }
+  /* string 1, char 25 */
+  24.1830065359%, 24.6177363834% {
+    content: "Los Centros Turistr";
+  }
+  /* string 1, char 26 */
+  24.6187363834%, 25.0534662309% {
+    content: "Los Centros Turist";
+  }
+  /* string 1, char 27 */
+  25.0544662309%, 25.4891960784% {
+    content: "Los Centros Turis";
+  }
+  /* string 1, char 28 */
+  25.4901960784%, 25.9249259259% {
+    content: "Los Centros Turi";
+  }
+  /* string 1, char 29 */
+  25.9259259259%, 26.3606557734% {
+    content: "Los Centros Tur";
+  }
+  /* string 1, char 30 */
+  26.3616557734%, 26.7963856209% {
+    content: "Los Centros Tu";
+  }
+  /* string 1, char 31 */
+  26.7973856209%, 27.2321154684% {
+    content: "Los Centros T";
+  }
+  /* string 1, char 32 */
+  27.2331154684%, 27.6678453159% {
+    content: "Los Centros ";
+  }
+  /* string 1, char 33 */
+  27.6688453159%, 28.1035751634% {
+    content: "Los Centros";
+  }
+  /* string 1, char 34 */
+  28.1045751634%, 28.5393050109% {
+    content: "Los Centro";
+  }
+  /* string 1, char 35 */
+  28.5403050109%, 28.9750348584% {
+    content: "Los Centr";
+  }
+  /* string 1, char 36 */
+  28.9760348584%, 29.4107647059% {
+    content: "Los Cent";
+  }
+  /* string 1, char 37 */
+  29.4117647059%, 29.8464945534% {
+    content: "Los Cen";
+  }
+  /* string 1, char 38 */
+  29.8474945534%, 30.2822244009% {
+    content: "Los Ce";
+  }
+  /* string 1, char 39 */
+  30.2832244009%, 30.7179542484% {
+    content: "Los C";
+  }
+  /* string 1, char 40 */
+  30.7189542484%, 31.1536840959% {
+    content: "Los ";
+  }
+  /* string 1, char 41 */
+  31.1546840959%, 31.5894139434% {
+    content: "Los";
+  }
+  /* string 1, char 42 */
+  31.5904139434%, 32.0251437908% {
+    content: "Lo";
+  }
+  /* string 1, char 43 */
+  32.0261437908%, 32.4608736383% {
+    content: "L";
+  }
+  /* string 1, char 44 */
+  32.4618736383%, 37.907496732% {
+    content: "​";
+  }
+  /* string 2, char 1 */
+  37.908496732%, 38.4521590414% {
+    content: "I";
+  }
+  /* string 2, char 2 */
+  38.4531590414%, 38.9968213508% {
+    content: "It";
+  }
+  /* string 2, char 3 */
+  38.9978213508%, 39.5414836601% {
+    content: "It ";
+  }
+  /* string 2, char 4 */
+  39.5424836601%, 40.0861459695% {
+    content: "It t";
+  }
+  /* string 2, char 5 */
+  40.0871459695%, 40.6308082789% {
+    content: "It ty";
+  }
+  /* string 2, char 6 */
+  40.6318082789%, 41.1754705882% {
+    content: "It typ";
+  }
+  /* string 2, char 7 */
+  41.1764705882%, 41.7201328976% {
+    content: "It type";
+  }
+  /* string 2, char 8 */
+  41.7211328976%, 42.264795207% {
+    content: "It typed";
+  }
+  /* string 2, char 9 */
+  42.265795207%, 42.8094575163% {
+    content: "It typed ";
+  }
+  /* string 2, char 10 */
+  42.8104575163%, 43.3541198257% {
+    content: "It typed t";
+  }
+  /* string 2, char 11 */
+  43.3551198257%, 43.8987821351% {
+    content: "It typed th";
+  }
+  /* string 2, char 12 */
+  43.8997821351%, 44.4434444444% {
+    content: "It typed thi";
+  }
+  /* string 2, char 13 */
+  44.4444444444%, 44.9881067538% {
+    content: "It typed this";
+  }
+  /* string 2, char 14 */
+  44.9891067538%, 45.5327690632% {
+    content: "It typed this ";
+  }
+  /* string 2, char 15 */
+  45.5337690632%, 46.0774313725% {
+    content: "It typed this o";
+  }
+  /* string 2, char 16 */
+  46.0784313725%, 46.6220936819% {
+    content: "It typed this on";
+  }
+  /* string 2, char 17 */
+  46.6230936819%, 47.1667559913% {
+    content: "It typed this one";
+  }
+  /* string 2, char 18 */
+  47.1677559913%, 47.7114183007% {
+    content: "It typed this one ";
+  }
+  /* string 2, char 19 */
+  47.7124183007%, 48.25608061% {
+    content: "It typed this one t";
+  }
+  /* string 2, char 20 */
+  48.25708061%, 48.8007429194% {
+    content: "It typed this one to";
+  }
+  /* string 2, char 21 */
+  48.8017429194%, 49.3454052288% {
+    content: "It typed this one too";
+  }
+  /* string 2, char 22 */
+  49.3464052288%, 49.8900675381% {
+    content: "It typed this one too ";
+  }
+  /* string 2, char 23 */
+  49.8910675381%, 61.7637058824% {
+    content: "It typed this one too 😱";
+  }
+  /* string 2, char 24 */
+  61.7647058824%, 62.1994357298% {
+    content: "It typed this one too ";
+  }
+  /* string 2, char 25 */
+  62.2004357298%, 62.6351655773% {
+    content: "It typed this one too";
+  }
+  /* string 2, char 26 */
+  62.6361655773%, 63.0708954248% {
+    content: "It typed this one to";
+  }
+  /* string 2, char 27 */
+  63.0718954248%, 63.5066252723% {
+    content: "It typed this one t";
+  }
+  /* string 2, char 28 */
+  63.5076252723%, 63.9423551198% {
+    content: "It typed this one ";
+  }
+  /* string 2, char 29 */
+  63.9433551198%, 64.3780849673% {
+    content: "It typed this one";
+  }
+  /* string 2, char 30 */
+  64.3790849673%, 64.8138148148% {
+    content: "It typed this on";
+  }
+  /* string 2, char 31 */
+  64.8148148148%, 65.2495446623% {
+    content: "It typed this o";
+  }
+  /* string 2, char 32 */
+  65.2505446623%, 65.6852745098% {
+    content: "It typed this ";
+  }
+  /* string 2, char 33 */
+  65.6862745098%, 66.1210043573% {
+    content: "It typed this";
+  }
+  /* string 2, char 34 */
+  66.1220043573%, 66.5567342048% {
+    content: "It typed thi";
+  }
+  /* string 2, char 35 */
+  66.5577342048%, 66.9924640523% {
+    content: "It typed th";
+  }
+  /* string 2, char 36 */
+  66.9934640523%, 67.4281938998% {
+    content: "It typed t";
+  }
+  /* string 2, char 37 */
+  67.4291938998%, 67.8639237473% {
+    content: "It typed ";
+  }
+  /* string 2, char 38 */
+  67.8649237473%, 68.2996535948% {
+    content: "It typed";
+  }
+  /* string 2, char 39 */
+  68.3006535948%, 68.7353834423% {
+    content: "It type";
+  }
+  /* string 2, char 40 */
+  68.7363834423%, 69.1711132898% {
+    content: "It typ";
+  }
+  /* string 2, char 41 */
+  69.1721132898%, 69.6068431373% {
+    content: "It ty";
+  }
+  /* string 2, char 42 */
+  69.6078431373%, 70.0425729847% {
+    content: "It t";
+  }
+  /* string 2, char 43 */
+  70.0435729847%, 70.4783028322% {
+    content: "It ";
+  }
+  /* string 2, char 44 */
+  70.4793028322%, 70.9140326797% {
+    content: "It";
+  }
+  /* string 2, char 45 */
+  70.9150326797%, 71.3497625272% {
+    content: "I";
+  }
+  /* string 2, char 46 */
+  71.3507625272%, 76.7963856209% {
+    content: "​";
+  }
+  /* string 3, char 1 */
+  76.7973856209%, 77.3410479303% {
+    content: "E";
+  }
+  /* string 3, char 2 */
+  77.3420479303%, 77.8857102397% {
+    content: "En";
+  }
+  /* string 3, char 3 */
+  77.8867102397%, 78.430372549% {
+    content: "Enj";
+  }
+  /* string 3, char 4 */
+  78.431372549%, 78.9750348584% {
+    content: "Enjo";
+  }
+  /* string 3, char 5 */
+  78.9760348584%, 79.5196971678% {
+    content: "Enjoy";
+  }
+  /* string 3, char 6 */
+  79.5206971678%, 80.0643594771% {
+    content: "Enjoy ";
+  }
+  /* string 3, char 7 */
+  80.0653594771%, 91.9379978214% {
+    content: "Enjoy ☕";
+  }
+  /* string 3, char 8 */
+  91.9389978214%, 92.3737276688% {
+    content: "Enjoy ";
+  }
+  /* string 3, char 9 */
+  92.3747276688%, 92.8094575163% {
+    content: "Enjoy";
+  }
+  /* string 3, char 10 */
+  92.8104575163%, 93.2451873638% {
+    content: "Enjo";
+  }
+  /* string 3, char 11 */
+  93.2461873638%, 93.6809172113% {
+    content: "Enj";
+  }
+  /* string 3, char 12 */
+  93.6819172113%, 94.1166470588% {
+    content: "En";
+  }
+  /* string 3, char 13 */
+  94.1176470588%, 94.5523769063% {
+    content: "E";
+  }
+  /* string 3, char 14 */
+  94.5533769063%, 100% {
+    content: "​";
+  }
+}
+@keyframes typed {
+  /* string 1, char 1 */
+  0%, 0.5436623094% {
+    content: "L";
+  }
+  /* string 1, char 2 */
+  0.5446623094%, 1.0883246187% {
+    content: "Lo";
+  }
+  /* string 1, char 3 */
+  1.0893246187%, 1.6329869281% {
+    content: "Los";
+  }
+  /* string 1, char 4 */
+  1.6339869281%, 2.1776492375% {
+    content: "Los ";
+  }
+  /* string 1, char 5 */
+  2.1786492375%, 2.7223115468% {
+    content: "Los C";
+  }
+  /* string 1, char 6 */
+  2.7233115468%, 3.2669738562% {
+    content: "Los Ce";
+  }
+  /* string 1, char 7 */
+  3.2679738562%, 3.8116361656% {
+    content: "Los Cen";
+  }
+  /* string 1, char 8 */
+  3.8126361656%, 4.3562984749% {
+    content: "Los Cent";
+  }
+  /* string 1, char 9 */
+  4.3572984749%, 4.9009607843% {
+    content: "Los Centr";
+  }
+  /* string 1, char 10 */
+  4.9019607843%, 5.4456230937% {
+    content: "Los Centro";
+  }
+  /* string 1, char 11 */
+  5.4466230937%, 5.9902854031% {
+    content: "Los Centros";
+  }
+  /* string 1, char 12 */
+  5.9912854031%, 6.5349477124% {
+    content: "Los Centros ";
+  }
+  /* string 1, char 13 */
+  6.5359477124%, 7.0796100218% {
+    content: "Los Centros T";
+  }
+  /* string 1, char 14 */
+  7.0806100218%, 7.6242723312% {
+    content: "Los Centros Tu";
+  }
+  /* string 1, char 15 */
+  7.6252723312%, 8.1689346405% {
+    content: "Los Centros Tur";
+  }
+  /* string 1, char 16 */
+  8.1699346405%, 8.7135969499% {
+    content: "Los Centros Turi";
+  }
+  /* string 1, char 17 */
+  8.7145969499%, 9.2582592593% {
+    content: "Los Centros Turis";
+  }
+  /* string 1, char 18 */
+  9.2592592593%, 9.8029215686% {
+    content: "Los Centros Turis";
+  }
+  /* string 1, char 19 */
+  9.8039215686%, 10.347583878% {
+    content: "Los Centros Turist";
+  }
+  /* string 1, char 20 */
+  10.348583878%, 10.8922461874% {
+    content: "Los Centros Turisti";
+  }
+
+  /* string 1, char 21 */
+  10.8932461874%, 11.4369084967% {
+    content: "Los Centros Turistic";
+  }
+  
+  11.8932461874%, 12.4369084967% {
+    content: "Los Centros Turistico";
+  }
+  
+  12.8932461874%, 13.4369084967% {
+    content: "Los Centros Turisticos";
+  }
+  13.8932461874%, 14.4369084967% {
+    content: "Los Centros Turisticos!";
+  }
+  /* string 1, char 22 */
+  14.4379084967%, 23.310546841% {
+    content: "Los Centros Turisticos!";
+  }
+  /* string 1, char 23 */
+  23.311546841%, 23.7462766885% {
+    content: "Los Centros Turisticos";
+  }
+  /* string 1, char 24 */
+  23.7472766885%, 24.1820065359% {
+    content: "Los Centros Turistico";
+  }
+  /* string 1, char 25 */
+  24.1830065359%, 24.6177363834% {
+    content: "Los Centros Turistic";
+  }
+  /* string 1, char 26 */
+  24.6187363834%, 25.0534662309% {
+    content: "Los Centros Turisti";
+  }
+  /* string 1, char 27 */
+  25.0544662309%, 25.4891960784% {
+    content: "Los Centros Turist";
+  }
+  /* string 1, char 28 */
+  25.4901960784%, 25.9249259259% {
+    content: "Los Centros Turis";
+  }
+  /* string 1, char 29 */
+  25.9259259259%, 26.3606557734% {
+    content: "Los Centros Turi";
+  }
+  /* string 1, char 30 */
+  26.3616557734%, 26.7963856209% {
+    content: "Los Centros Tur";
+  }
+  /* string 1, char 31 */
+  26.7973856209%, 27.2321154684% {
+    content: "Los Centros Tu";
+  }
+  /* string 1, char 32 */
+  27.2331154684%, 27.6678453159% {
+    content: "Los Centros T";
+  }
+  /* string 1, char 33 */
+  27.6688453159%, 28.1035751634% {
+    content: "Los Centros ";
+  }
+  /* string 1, char 34 */
+  28.1045751634%, 28.5393050109% {
+    content: "Los Centros";
+  }
+  /* string 1, char 35 */
+  28.5403050109%, 28.9750348584% {
+    content: "Los Centro";
+  }
+  /* string 1, char 36 */
+  28.9760348584%, 29.4107647059% {
+    content: "Los Centr";
+  }
+  /* string 1, char 37 */
+  29.4117647059%, 29.8464945534% {
+    content: "Los Cent";
+  }
+  /* string 1, char 38 */
+  29.8474945534%, 30.2822244009% {
+    content: "Los Cen";
+  }
+  /* string 1, char 39 */
+  30.2832244009%, 30.7179542484% {
+    content: "Los Ce";
+  }
+  /* string 1, char 40 */
+  30.7189542484%, 31.1536840959% {
+    content: "Los C";
+  }
+  /* string 1, char 41 */
+  31.1546840959%, 31.5894139434% {
+    content: "Los ";
+  }
+  /* string 1, char 42 */
+  31.5904139434%, 32.0251437908% {
+    content: "Los";
+  }
+  /* string 1, char 43 */
+  32.0261437908%, 32.4608736383% {
+    content: "Lo";
+  }
+  32.5904139434%, 33.0251437908% {
+    content: "L";
+  }
+  33.0261437908%, 34.4608736383% {
+    content: "";
+  }
+  /* string 1, char 44 */
+  34.4618736383%, 37.907496732% {
+    content: "​D";
+  }
+  /* string 2, char 1 */
+  37.908496732%, 38.4521590414% {
+    content: "De";
+  }
+  /* string 2, char 2 */
+  38.4531590414%, 38.9968213508% {
+    content: "Del";
+  }
+  /* string 2, char 3 */
+  38.9978213508%, 39.5414836601% {
+    content: "Del ";
+  }
+  /* string 2, char 4 */
+  39.5424836601%, 40.0861459695% {
+    content: "Del D";
+  }
+  /* string 2, char 5 */
+  40.0871459695%, 40.6308082789% {
+    content: "Del Di";
+  }
+  /* string 2, char 6 */
+  40.6318082789%, 41.1754705882% {
+    content: "Del Dis";
+  }
+  /* string 2, char 7 */
+  41.1764705882%, 41.7201328976% {
+    content: "Del Dist";
+  }
+  /* string 2, char 8 */
+  41.7211328976%, 42.264795207% {
+    content: "Del Distr";
+  }
+  /* string 2, char 9 */
+  42.265795207%, 42.8094575163% {
+    content: "Del Distri";
+  }
+  /* string 2, char 10 */
+  42.8104575163%, 43.3541198257% {
+    content: "Del Distrit";
+  }
+  /* string 2, char 11 */
+  43.3551198257%, 43.8987821351% {
+    content: "Del Distrit";
+  }
+  /* string 2, char 12 */
+  43.8997821351%, 44.4434444444% {
+    content: "Del Distrito";
+  }
+  /* string 2, char 13 */
+  44.4444444444%, 44.9881067538% {
+    content: "Del Distrito ";
+  }
+  /* string 2, char 14 */
+  44.9891067538%, 45.5327690632% {
+    content: "Del Distrito d";
+  }
+  /* string 2, char 15 */
+  45.5337690632%, 46.0774313725% {
+    content: "Del Distrito de";
+  }
+  /* string 2, char 16 */
+  46.0784313725%, 46.6220936819% {
+    content: "Del Distrito de!";
+  }
+  /* string 2, char 17 */
+  46.6230936819%, 47.1667559913% {
+    content: "Del Distrito de!!";
+  }
+  /* 47.1677559913%, 47.7114183007% {
+    content: "It typed this one ";
+  }
+  47.7124183007%, 48.25608061% {
+    content: "It typed this one t";
+  }
+  48.25708061%, 48.8007429194% {
+    content: "It typed this one to";
+  }
+  48.8017429194%, 49.3454052288% {
+    content: "It typed this one too";
+  }
+  49.3464052288%, 49.8900675381% {
+    content: "It typed this one too ";
+  }
+  49.8910675381%, 61.7637058824% {
+    content: "It typed this one too 😱";
+  }
+  61.7647058824%, 62.1994357298% {
+    content: "It typed this one too ";
+  }
+  62.2004357298%, 62.6351655773% {
+    content: "It typed this one too";
+  }
+  62.6361655773%, 63.0708954248% {
+    content: "It typed this one to";
+  }*/
+  /* 63.0718954248%, 63.5066252723% {
+    content: "Del Distrito de!!";
+  } */
+  63.5076252723%, 63.9423551198% {
+    content: "Del Distrito de!!"; 
+  } 
+  /* string 2, char 29 */
+  63.9433551198%, 64.3780849673% {
+    content: "Del Distrito de!";
+  }
+  /* string 2, char 30 */
+  64.3790849673%, 64.8138148148% {
+    content: "Del Distrito de";
+  }
+  /* string 2, char 31 */
+  64.8148148148%, 65.2495446623% {
+    content: "Del Distrito d";
+  }
+  /* string 2, char 32 */
+  65.2505446623%, 65.6852745098% {
+    content: "Del Distrito ";
+  }
+  /* string 2, char 33 */
+  65.6862745098%, 66.1210043573% {
+    content: "Del Distrito";
+  }
+  /* string 2, char 34 */
+  66.1220043573%, 66.5567342048% {
+    content: "Del Distrit";
+  }
+  /* string 2, char 35 */
+  66.5577342048%, 66.9924640523% {
+    content: "Del Distri";
+  }
+  /* string 2, char 36 */
+  66.9934640523%, 67.4281938998% {
+    content: "Del Distr";
+  }
+  /* string 2, char 37 */
+  67.4291938998%, 67.8639237473% {
+    content: "Del Dist";
+  }
+  /* string 2, char 38 */
+  67.8649237473%, 68.2996535948% {
+    content: "Del Dis";
+  }
+  /* string 2, char 39 */
+  68.3006535948%, 68.7353834423% {
+    content: "Del Di";
+  }
+  /* string 2, char 40 */
+  68.7363834423%, 69.1711132898% {
+    content: "Del D";
+  }
+  /* string 2, char 41 */
+  69.1721132898%, 69.6068431373% {
+    content: "Del ";
+  }
+  /* string 2, char 42 */
+  69.6078431373%, 70.0425729847% {
+    content: "Del";
+  }
+  /* string 2, char 43 */
+  70.0435729847%, 70.4783028322% {
+    content: "De";
+  }
+  /* string 2, char 44 */
+  70.4793028322%, 70.9140326797% {
+    content: "D";
+  }
+  /* string 2, char 45 */
+  70.9150326797%, 71.3497625272% {
+    content: "";
+  }
+  /* string 2, char 46 */
+  71.3507625272%, 76.7963856209% {
+    content: "​";
+  }
+  /* string 3, char 1 */
+  76.7973856209%, 77.3410479303% {
+    content: "C";
+  }
+  /* string 3, char 2 */
+  77.3420479303%, 77.8857102397% {
+    content: "Ch";
+  }
+  /* string 3, char 3 */
+  77.8867102397%, 78.430372549% {
+    content: "Cha";
+  }
+  /* string 3, char 4 */
+  78.431372549%, 78.9750348584% {
+    content: "Chan";
+  }
+  /* string 3, char 5 */
+  78.9760348584%, 79.5196971678% {
+    content: "Chang";
+  }
+  /* string 3, char 6 */
+  79.5206971678%, 80.0643594771% {
+    content: "Changui";
+  }
+  79.9760348584%, 80.0643594771% {
+    content: "Changuil";
+  } 
+  80.3747276688%, 81.0643594771% {
+    content: "Changuill";
+  }
+  80.6809172113%, 83.0643594771% {
+    content: "Changuillo";
+  }
+  81.0643594771%, 84.0643594771% {
+    content: "Changuillo ";
+  }
+  84.9389978214%, 85.9379978214% {
+    content: "Changuillo ☕";
+  }
+
+  /* string 3, char 7 */
+  /* 90.3747276688%, 91.9379978214% {
+    content: "Changuillo ☕";
+  } */
+  /* string 3, char 8 */
+  91.9389978214%, 92.3737276688% {
+    content: "Changuillo ";
+  }
+  /* string 3, char 9 */
+  92.3747276688%, 92.8094575163% {
+    content: "Changuillo";
+  }
+  /* string 3, char 10 */
+  92.8104575163%, 93.2451873638% {
+    content: "Changuill";
+  }
+  /* string 3, char 11 */
+  93.2461873638%, 93.6809172113% {
+    content: "Changuil";
+  }
+  /* string 3, char 12 */
+  93.6819172113%, 94.1166470588% {
+    content: "Changui";
+  }
+  /* string 3, char 13 */
+  94.2461873638%, 94.5523769063% {
+    content: "Changu";
+  }
+  94.6819172113%, 95.5523769063% {
+    content: "Chang";
+  }
+  95.3747276688%, 95.6819172113% {
+    content: "Chan";
+  }
+  95.8104575163%, 96.3737276688% {
+    content: "Cha";
+  }
+  96.1176470588%, 96.8094575163% {
+    content: "Ch";
+  }
+  96.1176470588%, 97.5523769063% {
+    content: "C";
+  }
+  /* string 3, char 14 */
+  94.5533769063%, 100% {
+    content: "​";
+  }
+}
+@-webkit-keyframes beam-blink {
+  75% {
+    border-color: transparent;
+  }
+}
+@keyframes beam-blink {
+  75% {
+    border-color: transparent;
+  }
+}
+
+
+
+.animation-title {
+  font-size: calc(10px + 2vw);
+  font-family: 'VT323', monospace, sans-serif;
+  color: #3f3;
+  /* -webkit-font-smoothing: antialiased; */
+  /* -moz-osx-font-smoothing: grayscale; */
+}
+.animation-title::after {
+  content: "​";
+  position: relative;
+  display: inline-block;
+  border-right: 10px solid rgba(51, 255, 51, 0.75);
+  border-right: calc(1.1vw + 4px) solid rgba(51, 255, 51, 0.75);
+  text-shadow: 0 0 5px rgba(51, 255, 51, 0.75);
+  -webkit-animation: typed 18.36s linear 1s infinite, beam-blink 1s infinite;
+          animation: typed 18.36s linear 1s infinite, beam-blink 1s infinite;
+}
+/* 
+@media (max-width: 575px) {
+  body::after {
+    top: -33px;
+  }
+}
+
+@media (max-width: 575px) {
+  body::before {
+    content: "3 strings \a 52 chars \a 18.36s duration";
+  }
+} */
