@@ -34,6 +34,7 @@ const URL = () => {
 
 const alertDeDescarga = () => {
     const confirmarme = prompt("Nombre completo para Aceder a la descarga")
+    
     if("jesus luis rojas remolino" == confirmarme) {
         URL()
         alert("Hola Profe ✋")
@@ -51,13 +52,9 @@ const alertDeDescarga = () => {
     }else if("critina yupa pomasonco" == confirmarme){
         URL()
         alert("Hola tia 🙂✋")
-    }
-    else if("alvaro pretel rojas" == confirmarme){
+    }else if("alvaro pretel rojas" == confirmarme){
         URL()
         alert("Hola tio ✋")
-    }
-    else if("machaca"){
-        URL()
     }else if("for liliana tuero farfan" == confirmarme){
         URL()
     }else if("andy janampa romero" == confirmarme){
