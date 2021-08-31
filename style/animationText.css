@@ -887,7 +887,7 @@
 
 
 .animation-title {
-  font-size: calc(10px + 2vw);
+  font-size: calc(15px + 2vw);
   font-family: 'VT323', monospace, sans-serif;
   color: #3f3;
   /* -webkit-font-smoothing: antialiased; */
