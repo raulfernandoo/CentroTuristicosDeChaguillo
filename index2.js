@@ -75,8 +75,6 @@ if(LaIglesia() && true){
 
         
 
-        
-
     })
 
 
